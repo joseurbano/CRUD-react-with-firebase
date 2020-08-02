@@ -1,0 +1,12 @@
+.form-login{
+    max-width: 650px;
+}
+
+.btn-signup{
+    background-color: #65357a;
+    color: #fff;
+}
+.btn-signup:hover{
+    background-color: #ab6f43;
+    color: #fff;
+}

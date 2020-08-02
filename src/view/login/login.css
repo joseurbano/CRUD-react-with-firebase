@@ -1,0 +1,35 @@
+.login-content {
+  width: 100%;
+  padding: 10%;
+  margin: auto;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    45deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(171, 111, 67, 1) 0%,
+    rgba(68, 26, 148, 1) 100%
+  );
+
+  height: 100vh;
+}
+
+.btn-login {
+  background-color: #fff;
+  color: #65357a;
+  transition: 0.3s ease-in;
+}
+
+.btn-login:hover {
+  background-color: #ab6f43;
+  color: #fff;
+}
+
+.options-login a {
+  text-decoration: none;
+  color: #fff;
+  transition: 0.3s ease-in;
+}
+.options-login a:hover {
+  text-decoration: none;
+  color: #f21667;
+}

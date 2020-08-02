@@ -1,0 +1,17 @@
+.navbar {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    45deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(171, 111, 67, 1) 0%,
+    rgba(68, 26, 148, 1) 100%
+  );
+}
+.nav-item a {
+  color: #fff;
+  transition: 0.3s ease-in;
+  text-decoration: none;
+}
+.nav-item a:hover {
+  color: #f21667;
+}
